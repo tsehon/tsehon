@@ -5,10 +5,6 @@
 ## Or connect with me here:
 <p align="left">
 <a href="https://linkedin.com/in/tsehon" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" alt="tsehon" height="30" width="40" /></a>
-<!--
-  <a href="https://www.twitter.com/tsehon" target="blank"><i class="fa-brands fa-twitter"></i>
-
-<img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter.svg" alt="tsehon" height="30" width="40" /></a> -->
   
 ## These are the languages I use: 
 <p align="left"> 
