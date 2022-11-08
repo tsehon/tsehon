@@ -24,7 +24,7 @@
   </a>
 </p>  
 
-## etc.:
+## & here are some stats:
 
 ![Tyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsehon&count_private=true&show_icons=true&hide_border=true&&bg_color=0d1117&ring=0088fe&icon_color=0088ff&theme=algolia)
 
