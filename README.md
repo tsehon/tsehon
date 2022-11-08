@@ -1,6 +1,6 @@
 # <h2 align="left"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">    Hello! My name is Tyler</h2>
-- I'm currently working towards my B.S. of Computer Science at the University of Southern California
-- Get in touch @ tsehon@usc.edu
+- I'm studying Computer Science at the University of Southern California
+- You can contact me @ tsehon@usc.edu
 
 ## Connect with me:
 <p align="left">
