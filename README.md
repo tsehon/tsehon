@@ -8,8 +8,8 @@
 <!--
   <a href="https://www.twitter.com/tsehon" target="blank"><i class="fa-brands fa-twitter"></i>
 
-<img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter.svg" alt="tsehon" height="30" width="40" /></a>
--->
+<img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter.svg" alt="tsehon" height="30" width="40" /></a> -->
+  
 ## These are the languages I use: 
 <p align="left"> 
   <a href="https://www.w3schools.com/c/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
