@@ -2,7 +2,7 @@
 - I'm studying Computer Science at the University of Southern California
 - You can contact me @ tsehon@usc.edu
 
-## or connect with me here:
+## you can connect with me here:
 <p align="left">
 <a href="https://linkedin.com/in/tsehon" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" alt="tsehon" height="30" width="40" /></a>
   
