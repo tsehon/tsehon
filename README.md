@@ -2,12 +2,15 @@
 - I'm studying Computer Science at the University of Southern California
 - You can contact me @ tsehon@usc.edu
 
-## Connect with me:
+## Or connect with me here:
 <p align="left">
 <a href="https://linkedin.com/in/tsehon" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" alt="tsehon" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/tsehon" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="tsehon" height="30" width="40" /></a>
+<!--
+  <a href="https://www.twitter.com/tsehon" target="blank"><i class="fa-brands fa-twitter"></i>
 
-## Languages and Tools: 
+<img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter.svg" alt="tsehon" height="30" width="40" /></a>
+-->
+## These are the languages I use: 
 <p align="left"> 
   <a href="https://www.w3schools.com/c/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   </a> 
@@ -24,6 +27,8 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
 </p>  
+
+## etc.:
 
 ![Tyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsehon&count_private=true&show_icons=true&hide_border=true&&bg_color=0d1117&ring=0088fe&icon_color=0088ff&theme=algolia)
 
