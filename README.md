@@ -1,12 +1,12 @@
-# <h2 align="left"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">    Hello! My name is Tyler</h2>
+# <h2 align="left"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">    hello! my name is Tyler</h2>
 - I'm studying Computer Science at the University of Southern California
 - You can contact me @ tsehon@usc.edu
 
-## Or connect with me here:
+## or connect with me here:
 <p align="left">
 <a href="https://linkedin.com/in/tsehon" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" alt="tsehon" height="30" width="40" /></a>
   
-## These are the languages I use: 
+## here are some languages I use: 
 <p align="left"> 
   <a href="https://www.w3schools.com/c/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   </a> 
