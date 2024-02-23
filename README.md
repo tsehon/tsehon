@@ -1,6 +1,6 @@
 # <h2 align="left"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">hello!</h2>
-- I'm an undergraduate studying Computer Science at the University of Southern California
-- You can contact me @ tsehon@usc.edu
+- I'm a recent CS grad from the University of Southern California
+- You can contact me @ tylersehon@gmail.com
 - Or connect with me on LinkedIn:
 <a href="https://linkedin.com/in/tsehon" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" alt="tsehon" height="30" width="40" /></a>
 
